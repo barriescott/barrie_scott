@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barriescott.github.io/barrie_scott/sitemap.xml
